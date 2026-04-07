@@ -1,0 +1,22 @@
+/* selector element tertentu
+p{
+    color : blue;
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    text-align: left;
+}
+/*selector universal*/
+/*{
+    color: hsl(240, 100%, 50%);
+} */
+/* selector class*/
+.class_warna{
+    color: yellow;
+    text-align: right;
+}
+/* selector id*/
+#design_spesific{
+    color : blue;
+}
